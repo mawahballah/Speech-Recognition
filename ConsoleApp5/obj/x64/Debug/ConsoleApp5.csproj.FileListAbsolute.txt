@@ -1,0 +1,19 @@
+C:\Users\mabde\Documents\Visual Studio 2017\Projects\ConsoleApp5\ConsoleApp5\bin\x64\Debug\ConsoleApp5.exe.config
+C:\Users\mabde\Documents\Visual Studio 2017\Projects\ConsoleApp5\ConsoleApp5\bin\x64\Debug\ConsoleApp5.exe
+C:\Users\mabde\Documents\Visual Studio 2017\Projects\ConsoleApp5\ConsoleApp5\bin\x64\Debug\ConsoleApp5.pdb
+C:\Users\mabde\Documents\Visual Studio 2017\Projects\ConsoleApp5\ConsoleApp5\bin\x64\Debug\Microsoft.Speech.dll
+C:\Users\mabde\Documents\Visual Studio 2017\Projects\ConsoleApp5\ConsoleApp5\bin\x64\Debug\SpeechClient.dll
+C:\Users\mabde\Documents\Visual Studio 2017\Projects\ConsoleApp5\ConsoleApp5\obj\x64\Debug\ConsoleApp5.csprojResolveAssemblyReference.cache
+C:\Users\mabde\Documents\Visual Studio 2017\Projects\ConsoleApp5\ConsoleApp5\obj\x64\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\mabde\Documents\Visual Studio 2017\Projects\ConsoleApp5\ConsoleApp5\obj\x64\Debug\ConsoleApp5.exe
+C:\Users\mabde\Documents\Visual Studio 2017\Projects\ConsoleApp5\ConsoleApp5\obj\x64\Debug\ConsoleApp5.pdb
+F:\Projects\Speech Recognition\ConsoleApp5\bin\x64\Debug\ConsoleApp5.exe.config
+F:\Projects\Speech Recognition\ConsoleApp5\bin\x64\Debug\ConsoleApp5.exe
+F:\Projects\Speech Recognition\ConsoleApp5\bin\x64\Debug\ConsoleApp5.pdb
+F:\Projects\Speech Recognition\ConsoleApp5\bin\x64\Debug\Microsoft.Speech.dll
+F:\Projects\Speech Recognition\ConsoleApp5\bin\x64\Debug\SpeechClient.dll
+F:\Projects\Speech Recognition\ConsoleApp5\obj\x64\Debug\ConsoleApp5.csprojResolveAssemblyReference.cache
+F:\Projects\Speech Recognition\ConsoleApp5\obj\x64\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+F:\Projects\Speech Recognition\ConsoleApp5\obj\x64\Debug\ConsoleApp5.csproj.CopyComplete
+F:\Projects\Speech Recognition\ConsoleApp5\obj\x64\Debug\ConsoleApp5.exe
+F:\Projects\Speech Recognition\ConsoleApp5\obj\x64\Debug\ConsoleApp5.pdb
